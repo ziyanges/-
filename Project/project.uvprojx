@@ -580,6 +580,11 @@
               <FileType>1</FileType>
               <FilePath>..\Bsp\bsp_fscm.c</FilePath>
             </File>
+            <File>
+              <FileName>bsp_tim_pwm.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Bsp\bsp_tim_pwm.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>

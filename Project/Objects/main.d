@@ -35,3 +35,4 @@
 .\objects\main.o: ..\Bsp\bsp_exit.h
 .\objects\main.o: ..\Bsp\bsp_tim.h
 .\objects\main.o: ..\Bsp\bsp_fsmc.h
+.\objects\main.o: ..\Bsp\bsp_tim_pwm.h

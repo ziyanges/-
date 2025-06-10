@@ -8,6 +8,7 @@ void Led_Init(){
 	GpioInitstructure.GPIO_Mode=GPIO_Mode_Out_PP;
 	GpioInitstructure.GPIO_Speed=GPIO_Speed_50MHz;
 	//RED
+	
 	GpioInitstructure.GPIO_Pin=LED_R_PIN;
 	GPIO_Init(LED_PORT_RBG,&GpioInitstructure);
 	//GREED

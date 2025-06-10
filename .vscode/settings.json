@@ -6,6 +6,7 @@
         "bsp_led.h": "c",
         "bsp_fsmc.h": "c",
         "bsp_exit.h": "c",
-        "bsp_tim.h": "c"
+        "bsp_tim.h": "c",
+        "bsp_tim_pwm.h": "c"
     }
 }
