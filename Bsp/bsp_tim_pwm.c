@@ -36,6 +36,7 @@ void TIM_PWM_Init(){
     
     TIM_OC2Init(TIM3,&TIM_OCInitStructure);
     TIM_OC2PreloadConfig(TIM3,TIM_OCPreload_Enable);
+    // 使能自动重装载,缓冲作用
     TIM_ARRPreloadConfig(TIM3, ENABLE);
 }
 

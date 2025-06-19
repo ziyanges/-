@@ -7,6 +7,8 @@
         "bsp_fsmc.h": "c",
         "bsp_exit.h": "c",
         "bsp_tim.h": "c",
-        "bsp_tim_pwm.h": "c"
+        "bsp_tim_pwm.h": "c",
+        "bsp_spi_flash.h": "c",
+        "stm32f10x_spi.h": "c"
     }
 }

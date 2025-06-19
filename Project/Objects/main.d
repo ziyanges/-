@@ -36,3 +36,4 @@
 .\objects\main.o: ..\Bsp\bsp_tim.h
 .\objects\main.o: ..\Bsp\bsp_fsmc.h
 .\objects\main.o: ..\Bsp\bsp_tim_pwm.h
+.\objects\main.o: ..\Bsp\bsp_spi_flash.h
